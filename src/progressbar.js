@@ -1,4 +1,4 @@
-import { Button, ButtonGroup, ProgressBar } from 'react-bootstrap';
+import { Button, ProgressBar } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from 'react';
 import './style.scss';
